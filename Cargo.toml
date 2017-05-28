@@ -4,3 +4,13 @@ version = "0.1.0"
 authors = ["Scott Schroeder <scott19904@gmail.com>"]
 
 [dependencies]
+log = "0.3"
+env_logger = "0.3"
+clap = {version = "2.24.2", features = ["yaml"]}
+clippy = {version = "*", optional = true}
+error-chain = "0.10.0"
+regex = "0.2"
+exec = "0.2.0"
+
+[features]
+default = []

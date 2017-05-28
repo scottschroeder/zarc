@@ -1,0 +1,11 @@
+write_mode = "Overwrite"
+array_layout = "Block"
+array_width = 0
+reorder_imported_names = true
+reorder_imports = true
+reorder_imports_in_group = true
+chain_split_single_child = true # If the length of a chain of one is too long, wrap it.
+fn_args_layout = "Block"
+fn_call_style = "Block"
+match_block_trailing_comma = true
+

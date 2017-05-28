@@ -1,0 +1,17 @@
+name: zarc
+version: "0.1.0"
+author: Scott Schroeder <scottschroeder@sent.com>
+about: Helper for extracting archives
+args:
+    - dryrun:
+        short: d
+        long: dry-run
+        help: Don't actually extract
+    - INPUT:
+        help: Path the the archive
+        required: true
+        index: 1
+    - verbose:
+        short: v
+        multiple: true
+        help: Sets the level of verbosity
