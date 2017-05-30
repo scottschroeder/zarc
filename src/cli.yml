@@ -8,7 +8,7 @@ args:
         long: dry-run
         help: Don't actually extract
     - INPUT:
-        help: Path the the archive
+        help: Path to the archive
         required: true
         index: 1
     - verbose:
