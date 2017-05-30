@@ -17,3 +17,11 @@ exercise; using rust as a simple scripting language.
 
 ## Supported Formats
 - [x] Gzipped Tarball `.tar.gz` and `.tgz`
+- [x] Bzipped Tarball `.tar.bz2` and `.tbz2`
+- [x] Bzipped Archive `.bz2`
+- [x] Tarballs `.tar`
+- [x] XZipped files `.xz`
+- [x] GZipped files `.gz` and `.Z`
+- [x] Zipped files `.zip`
+- [ ] Rar files `.rar` (untested)
+- [ ] 7zip files `.7z` (untested)
