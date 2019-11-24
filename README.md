@@ -21,3 +21,4 @@ I chose rust as an educational exercise; using rust as a simple scripting langua
 - [x] Zipped files `.zip`
 - [ ] Rar files `.rar` (untested)
 - [ ] 7zip files `.7z` (untested)
+
